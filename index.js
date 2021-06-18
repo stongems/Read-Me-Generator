@@ -1,4 +1,5 @@
 const inquirer = require('inquirer');
+//fs stands for file system
 const fs = require('fs');
 const util = require('util');
 const generateReadMe = require("./generateReadMe");
@@ -15,6 +16,7 @@ const promptUser = () => {
     },
     {
       type: 'editor',
+      //creates a text box for longer explanations
       name: 'description',
       message: 'What is the description?',
     },
@@ -61,8 +63,6 @@ const promptUser = () => {
     },
   ]);
 };
-
- 
 
 // Bonus using writeFileAsync as a promise
 const init = () => {

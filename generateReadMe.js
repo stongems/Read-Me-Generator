@@ -26,5 +26,4 @@ ${answers.contributors}
 `} 
 
 
-
 module.exports = generateReadMe
