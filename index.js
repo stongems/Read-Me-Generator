@@ -14,7 +14,7 @@ const promptUser = () => {
       message: 'What is the project title?',
     },
     {
-      type: 'input',
+      type: 'editor',
       name: 'description',
       message: 'What is the description?',
     },
@@ -37,12 +37,22 @@ const promptUser = () => {
     {
       type: 'input',
       name: 'test',
-      message: 'Enter your test.',
+      message: 'Enter your tests here.',
     },
     {
       type: 'input',
       name: 'questions',
-      message: 'What questions do you have?',
+      message: 'Do you have any questions?',
+    },
+    {
+      type: 'input',
+      name: 'email',
+      message: 'What is your email?',
+    },
+    {
+      type: 'input',
+      name: 'github',
+      message: 'What is your Github?',
     },
     {
       type: 'input',
