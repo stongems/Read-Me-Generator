@@ -1,7 +1,6 @@
-# dfgd 
+# README Generator 
 ## Description
-adfgadfgazdfg
-
+This is a template used to easily creat README.md files for your Github or other coding projects.
 
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -12,15 +11,15 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Questions](#questions)
 - [Contributors](#contributors)
 ## Installation
-aserg
+Information about your project installation will go here
 ## Usage
-asdg
+Can be used with any project
 ## License
-IBM
+Mozilla
 ## Tests
-aedgf
+No tests currently
 ## Questions
-Email: sdfg
-Github: sdg
+Email: stonge.ms@Gmail.com
+Github: https://github.com/stongems
 ## Contributors
 undefined
