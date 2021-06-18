@@ -1,5 +1,5 @@
-function generateReadMe(answers){
-return `# ${answers.title} 
+function generateReadMe(answers) {
+  return `# ${answers.title} 
 ## Description
 ${answers.description}
 ## Table of Contents (Optional)
@@ -23,7 +23,7 @@ Email: ${answers.email}
 Github: ${answers.github}
 ## Contributors
 ${answers.contributors}
-`} 
+`;
+}
 
-
-module.exports = generateReadMe
+module.exports = generateReadMe;
