@@ -31,11 +31,11 @@ function generateReadMe(answers) {
     `;
 }
 
-function renderLicenseLink(data) {
-    if (data.license -- "MIT" )
-    return 
-}else if (data.license -- "")
-}
+// function renderLicenseLink(data) {
+//     if (data.license -- "MIT" )
+//     return 
+// }else if (data.license -- "")
+// }
 
 
 
