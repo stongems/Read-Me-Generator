@@ -1,6 +1,6 @@
-# README Generator 
+# readme 
 ## Description
-This is a template used to easily create a README.md file for your Github or other coding projects.
+this is a file
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
@@ -10,15 +10,15 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Questions](#questions)
 - [Contributors](#contributors)
 ## Installation
-Project installation will go here
+verson
 ## Usage
-Project usage will got here
+daily
 ## License
-Mozilla
+MIT
 ## Tests
-No current tests
+test here
 ## Questions
-Email: stonge.ms@gmail.com
-Github: https://github.com/stongems
+Email: email
+Github: matthew
 ## Contributors
 undefined
